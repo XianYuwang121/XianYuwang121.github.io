@@ -105,4 +105,4 @@ deploy:
   type: git
   repo: https://github.com/XianYuwang121/shenxuzai.github.io.git
   #repository:git@github.com/XianYuwang121/shenxuzai.github.io.git
-  branch: master
+  branch: main
